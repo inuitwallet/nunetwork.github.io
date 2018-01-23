@@ -26,6 +26,9 @@ redirect_from: /about/faqs
 [Are NuBits an "IOU" system?](#are-nubits-an-iou-system)  
 [Can the supply of NuBits be reduced?](#can-the-supply-of-nubits-be-reduced)  
 
+[**Development**](#Development)  
+[What are the Public and Private Key version numbers](#what-are-the-public-and-private-key-version-numbers)
+
 [**NuShares**](#NuShares)  
 [How do NuShareholders determine who receives NuBits?](#how-do-you-determine-who-gets-nubits)  
 [Why is there a 10,000 NuShare minimum to vote on the network?](#why-is-there-a-limit)  
@@ -82,7 +85,7 @@ Yes! Peercoin is used to distribute dividends to NuShareholders. Many individual
 
 #### Could NuBits become worth nothing?
 
-Yes, of course. In reality all currencies, stocks, commodities & most investment options carry this risk. Even more-so digital currencies and most blockchain projects being different & new are inherently considered high-risk. Over time many digital currencies & perhaps even bitcoin could become value-less. However as crypto-currencies grow in global Market Share their utility & logevity alone will drastically reduce this risk. We could easily see a day where cryptocurrencies are the staple medium for transactions & transfers of value. 
+Yes, of course. In reality all currencies, stocks, commodities & most investment options carry this risk. Even more-so digital currencies and most blockchain projects being different & new are inherently considered high-risk. Over time many digital currencies & perhaps even bitcoin could become value-less. However as crypto-currencies grow in global Market Share their utility & logevity alone will drastically reduce this risk. We could easily see a day where cryptocurrencies are the staple medium for transactions & transfers of value.
 
 #### There are other digital currencies that are claiming to be worth $1.00 US. Which is the best?
 
@@ -155,6 +158,28 @@ An important goal of the Nu network is to transfer the speculative risk of ownin
 As part of the v2.0 release NuShareholders are also now able to vote on variable transaction fees for using the network. Because transaction fees are destroyed by the protocol, this also serves as a deflationary mechanism for the supply of NuBits.
 
 The first recorded use of a custodian burning NuBits (which definitively proved that the supply of NBT can be reduced) occurred on March 9, 2015\. [The transaction ID and discussion can be found in this forum thread](https://discuss.nubits.com/t/passed-motion-to-end-lpc-operations-of-ktm-jamie-and-nsr-sales-of-jordan/1466/57).
+
+### **Development**
+
+#### What are the Public and Private Key version numbers?
+
+##### Mainnet
+Coin | Public Key | Script Key | Private Key
+---|---|---|---
+NuShares|63|64|149
+US NuBits|25|26|150
+CN NuBits|78|79|151
+EU NuBits|33|34|152
+X NuBits|75|76|153
+
+##### Testnet
+Coin | Public Key | Script Key | Private Key
+---|---|---|---
+tNuShares|125|126|223
+tUS NuBits|85|86|224
+tCN NuBits|140|141|225
+tEU NuBits|92|93|226
+tX NuBits|137|138|227
 
 ### **NuShares**
 
